@@ -87,7 +87,7 @@
   * E = working well with a team all of the time with clear and constructive communication
 * Understanding and avoiding red flags
  * N = ignoring all red flags
- * I = would be identifying red flags, but not fixing them
+ * I = identifying red flags, but not fixing them
  * A = identifying and fixing a red flag
  * G = identifying, understanding and fixing a red flag to prevent future bugs
  * E = identifying, understanding, and fixing all red flags
